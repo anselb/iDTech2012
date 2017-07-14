@@ -1,0 +1,13 @@
+﻿Build started 7/22/2012 10:32:03 AM.
+     1>Project "C:\Users\Student\Desktop\Ansel Bridgewater\Variables\Variables\Variables.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Variables.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Variables.cpp
+         Variables.cpp
+     1>c:\users\student\desktop\ansel bridgewater\variables\variables\variables.cpp(19): error C2146: syntax error : missing ';' before identifier 'num1'
+     1>Done Building Project "C:\Users\Student\Desktop\Ansel Bridgewater\Variables\Variables\Variables.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31
