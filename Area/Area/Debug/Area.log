@@ -1,0 +1,19 @@
+﻿Build started 7/22/2012 11:04:09 AM.
+     1>Project "C:\Users\Student\Desktop\Ansel Bridgewater\Area\Area\Area.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Area.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Student\Desktop\Ansel Bridgewater\Area\Debug\Area.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Area.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Student\Desktop\Ansel Bridgewater\Area\Debug\Area.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Student\Desktop\Ansel Bridgewater\Area\Debug\Area.lib" /MACHINE:X86 Debug\Area.obj
+         "Debug\Second Calculator.obj"
+     1>Second Calculator.obj : error LNK2005: _main already defined in Area.obj
+     1>Second Calculator.obj : error LNK2005: "double num2" (?num2@@3NA) already defined in Area.obj
+     1>Second Calculator.obj : error LNK2005: "double num1" (?num1@@3NA) already defined in Area.obj
+     1>Second Calculator.obj : error LNK2005: "double num3" (?num3@@3NA) already defined in Area.obj
+     1>C:\Users\Student\Desktop\Ansel Bridgewater\Area\Debug\Area.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\Users\Student\Desktop\Ansel Bridgewater\Area\Area\Area.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.08
